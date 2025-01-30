@@ -2,6 +2,6 @@
 
 int main() {
 printf("Hello World");
-printf("Adam Piasecki");
+printf("Adam Piasecki2");
 return(0);
 }
